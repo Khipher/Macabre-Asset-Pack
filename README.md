@@ -15,50 +15,71 @@ A Junji Ito &amp; World of Horror inspired asset pack for Momentum Firmware on t
 7. ?????
 8. Prosper!
 ---
-# Animations!*
+# Animations!
 `Dizzy`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1dizzy.gif)
+
 `KIRYUKICKYESSSSIRRRRRRRHAHAHAHAHA`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1KIRYUKICKYESSIRRRRRRRHAHAHAHAHA.gif)
+
 `Eyes`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1eyes.gif)
+
 `Face`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1face.gif)
+
 `Father`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1father.gif)
+
 `Fear`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1fear.gif)
+
 `Hair Alt`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/2hair.gif)
+
 `It Begins`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1itbegins.gif)
+
 `It's Happening`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1itshappening.gif)
+
 `Hair`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1hair.gif)
+
 `Uzumaki`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1uzumaki.gif)
+
 `Looker`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1looker.gif)
+
 `Eyeroll`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1eyeroll.gif)
+
 `Nails`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1nails.gif)
+
 `Pimple`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1pimple.gif)
+
 `Realization`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1realization.gif)
+
 `Spiral`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1spiral.gif)
+
 `Tomie`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1tomie.gif)
+
 `Tongue`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1tongue.gif)
+
 `Train`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1train.gif)
+
 `WoH`
 ![](https://github.com/Khipher/Macabre-Asset-Pack/blob/main/Previews/1woh.gif)
-[^*]: * At least the ones that show up in the manifest, the folder has a couple WIP anims too if anyone wants to poke around in there.
+
+[^*]:At least the ones that show up in the manifest, the folder has a couple WIP anims too if anyone wants to poke around in there.
 ---
 ## To Do List
 - [ ] Break out the drawing tablet and do some custom art!
