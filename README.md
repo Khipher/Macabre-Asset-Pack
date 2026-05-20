@@ -9,7 +9,7 @@ A Junji Ito &amp; World of Horror inspired asset pack for Momentum Firmware on t
 2. Open qflipper, go to SD Card >`asset_packs`
 	1. Alternatively, connect your SD card to your card reader of choice and open `asset_packs`
 3. Extract/unzip `Macabre.zip` into `SD/asset_packs/`
-4. Open up the `MNTM` and go to ` Interface > Graphics`
+4. Open up the `MNTM` app on your Flipper Zero and go to ` Interface > Graphics`
 5. Select 'Macabre' asset pack
 6. Exit `MNTM` and your flipper with reload with the asset pack enabled
 7. ?????
